@@ -3,3 +3,4 @@
 /etc/udev/rules.d
 /etc/phosh
 /var/lib/batman
+/lib/modules/4.9-0-google-sargo/

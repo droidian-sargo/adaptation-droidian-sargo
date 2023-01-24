@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: adaptation-droidian-sargo
-Source: https://github.com/droidian/adaptation-google-sargo
+Source: https://github.com/droidian-sargo/adaptation-droidian-sargo
 
 Files: *
 Copyright: 2023 Bardia Moshiri <fakeshell@bardia.tech>
