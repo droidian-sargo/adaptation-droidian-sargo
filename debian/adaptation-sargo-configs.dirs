@@ -1,4 +1,5 @@
 /usr/bin/droid
-/etc/apt/sources.list.d
+/usr/share/keyrings
 /etc/udev/rules.d
-/etc/phosh/
+/etc/phosh
+/var/lib/batman
