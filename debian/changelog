@@ -1,5 +1,5 @@
-adaptation-droidian-sargo (0.0.0+git20230125092736.88cb61b.main) main; urgency=medium
+adaptation-droidian-sargo (0.0.0+git20230127092736.88cb61b.main) main; urgency=medium
 
-  * add modules
+  * add flashlight permission service
 
- -- fakeshell <fakeshell@bardia.tech>  Tue, 25 Jan 2022 01:41:30 +0330
+ -- fakeshell <fakeshell@bardia.tech>  Fri, 27 Jan 2022 05:09:30 +0330
