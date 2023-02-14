@@ -2,5 +2,6 @@
 /usr/share/keyrings
 /etc/udev/rules.d
 /etc/phosh
+/etc/apt/preferences.d
 /var/lib/batman
-/lib/modules/4.9-0-google-sargo/
+/var/lib/droidian
