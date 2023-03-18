@@ -1,5 +1,5 @@
-adaptation-droidian-sargo (0.0.0+git20230303092736.88cb61b.main) main; urgency=medium
+adaptation-droidian-sargo (0.0.0+git20230319092736.fc124bc.main) main; urgency=medium
 
-  * upstream batman
+  * move over files from var/lib to usr/lib/droidian/device
 
- -- fakeshell <fakeshell@bardia.tech>  Fri, 03 Mar 2023 14:05:30 +0330
+ -- fakeshell <fakeshell@bardia.tech>  Sun, 19 Mar 2023 00:43:30 +0330

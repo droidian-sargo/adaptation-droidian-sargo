@@ -4,4 +4,4 @@
 /etc/phosh
 /etc/apt/preferences.d
 /var/lib/batman
-/var/lib/droidian
+/usr/lib/droidian/device
