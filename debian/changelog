@@ -1,5 +1,5 @@
-adaptation-droidian-sargo (0.0.0+git20230319092736.2de92e1.bookworm) bookworm; urgency=medium
+adaptation-droidian-sargo (0.0.0+git20230321092736.ba92a9a.bookworm) bookworm; urgency=medium
 
-  * add flash-generic service we don't want to use AB leave it open if someone wants to dual boot
+  * add wlr-randr as a dependency
 
- -- fakeshell <fakeshell@bardia.tech>  Sun, 19 Mar 2023 09:18:30 +0330
+ -- fakeshell <fakeshell@bardia.tech>  Sun, 21 Mar 2023 22:43:30 +0330

@@ -12,6 +12,7 @@ Architecture: all
 Depends: ${misc:Depends},
          adaptation-hybris-api28-phone,
          adaptation-sargo-configs,
+         wlr-randr,
 Description: adapatation-droidian-sargo - meta
  Google Pixel 3a/3a XL api28 adaptation metapackage
 
