@@ -1,5 +1,5 @@
-adaptation-droidian-sargo (0.0.0+git20230321092736.ba92a9a.bookworm) bookworm; urgency=medium
+adaptation-droidian-sargo (0.0.0+git20230325031973.46f7639.bookworm) bookworm; urgency=medium
 
-  * add wlr-randr as a dependency
+  * disable suspend
 
- -- fakeshell <fakeshell@bardia.tech>  Sun, 21 Mar 2023 22:43:30 +0330
+ -- Bardia Moshiri <fakeshell@bardia.tech>  Sat, 25 Mar 2023 07:54:30 +0330
