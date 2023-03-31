@@ -1,5 +1,5 @@
-adaptation-droidian-sargo (0.0.0+git20230327031973.f494ca0.bookworm) bookworm; urgency=medium
+adaptation-droidian-sargo (0.0.0+git20230325031973.46f7639.bookworm) bookworm; urgency=medium
 
-  * set custom squeekboard layout
+  * disable suspend
 
- -- Bardia Moshiri <fakeshell@bardia.tech>  Mon, 27 Mar 2023 19:18:30 +0330
+ -- Bardia Moshiri <fakeshell@bardia.tech>  Sat, 25 Mar 2023 07:54:30 +0330
